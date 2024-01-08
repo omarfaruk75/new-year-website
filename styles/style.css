@@ -1,0 +1,145 @@
+
+    .container{
+        margin: 0 2%;
+        max-width: 1320px;
+        text-align: center;
+        color: #fff;
+        background: linear-gradient(180deg, #070211 80%, rgba(7, 2, 17, 0.00) 100%);
+        background-image: url('../images/Banner\ Image.png');
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+      
+   
+    }
+    .hero-page{
+        padding-top: 177px;
+        padding-bottom: 177px;
+    }
+    .header-greeting{
+        font-size: 32px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    .header-greeting-party{
+        padding-top: 0;
+        margin-top: 0;
+        font-size: 72px;
+        font-weight: 900;
+
+    }
+    .discount-section{
+        text-align: center;
+        margin-top: 120px;
+        margin-bottom: 120px;
+    }
+    .discount-title{
+        color: #F00;
+        align-items: center;
+        font-size: 88px;
+        font-weight: 700;
+    }
+    .discount-reason{
+        color: #F00;
+        font-size: 24px;
+        font-weight: 500;
+        margin-top: 40px;
+       
+    }
+    .discount-catagory{
+        color: #070211;
+        text-align: center;
+        font-size: 48px;
+        font-weight: 700;
+        margin-bottom: 48px;
+    
+    }
+    .new-year-party{
+        margin: 0 2%;
+        max-width: 1320px;
+        background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+        background-image: url('../images/Vectorrr.png');
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background: cover;  
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        border-radius: 16px;
+        
+    }
+    .new-year-party-title{
+        color: #FFF;
+        font-size: 64px;
+        font-weight: 900;
+        letter-spacing: 7.04px;
+    }
+    .party-description{
+      color: rgba(255, 255, 255, 0.80);  
+      
+    }
+    .btn-primary{
+        color: #FFF;
+        background-color: rgb(31, 175, 31);
+        padding: 12px;
+        font-size: 20px;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: 0;
+        border-radius: 5px;
+    }
+    .btn-primary:hover{
+        background-color:;
+
+    }
+    .party-place-section{
+        margin: 0 2%;
+        max-width: 1320px;
+        margin-top: 120px;
+        margin-bottom: 120px;
+        background: linear-gradient(135deg,rgb(248, 247, 245) 60%, rgb(245, 175, 118));
+        text-align: center;
+        padding-top: 100px;
+        border-radius: 16px;
+        line-height: 56px;
+       
+    }
+    .party-place-section span{
+        color: #FF0000;
+    }
+    .party-title{
+        font-size: 32px;
+        color: #000;
+    }
+    .party-date{
+         font-size: 32px;
+        color: #000;
+    }
+    .party-time{
+     font-size: 32px;
+        color: #000;
+    }
+    .btn-party-place{
+        color: #FFF;
+        background-color: rgb(31, 175, 31);
+        padding: 12px;
+        font-size: 20px;
+        font-weight: 700;
+        text-transform: uppercase;
+        border: 0;
+        border-radius: 5px; 
+        margin-top: 30px;
+        margin-bottom: 126px;
+       
+    }
+    .offer-title{
+        color: #F00;
+        text-align: center;
+        font-family: Inter;
+        font-size: 24px;
+    }
+    .offer-time{
+        color: #070211;
+        font-size: 48px;
+        font-weight: 900;
+        text-transform: capitalize;
+    }
