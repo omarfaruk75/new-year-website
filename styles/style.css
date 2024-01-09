@@ -98,7 +98,7 @@ body{
     }
     .btn-primary{
         color: #FFF;
-         background-color:#ff0000;
+        background-color:#ff0000;
         padding: 12px;
         font-size: 20px;
         font-weight: 700;
@@ -106,10 +106,10 @@ body{
         border: 0;
         border-radius: 5px;
     }
-    /* .btn-primary:hover{
-        background-color: ;
-
-    } */
+    .btn-primary:hover{
+        background-color:#fe7a7a;
+        cursor: pointer;
+    } 
     .party-place-section{
         margin: 0 2%;
         max-width: 1320px;
@@ -152,6 +152,10 @@ body{
         margin-bottom: 126px;
        
     }
+     .btn-party-place:hover{
+        background-color:#fe7a7a;
+        cursor: pointer;
+     }
    
     .image-round-section{
         margin: 0 2%;
@@ -169,9 +173,6 @@ body{
         color: #F00;
         font-family: Inter;
         font-size: 24px;
-        
-       
-
     }
     .offer-time{
         color: #070211;
@@ -277,6 +278,7 @@ body{
      }
      .portfolio-description{
         margin-bottom: 48px;
+         color: #070211;
      }
      .gifts-images-row01{
         max-width: 1260px;
@@ -339,6 +341,10 @@ body{
         margin-left: 0;
         height: 72px;
         color: #fff;
+     }
+     .btn-subscribe:hover{
+         background-color:#fe7a7a;
+        cursor: pointer;
      }
      .subscriber-description{
         margin-bottom: 48px;
