@@ -98,7 +98,7 @@ body{
     }
     .btn-primary{
         color: #FFF;
-        background-color: rgb(31, 175, 31);
+         background-color:#ff0000;
         padding: 12px;
         font-size: 20px;
         font-weight: 700;
@@ -106,10 +106,10 @@ body{
         border: 0;
         border-radius: 5px;
     }
-    .btn-primary:hover{
-        background-color:;
+    /* .btn-primary:hover{
+        background-color: ;
 
-    }
+    } */
     .party-place-section{
         margin: 0 2%;
         max-width: 1320px;
@@ -132,7 +132,7 @@ body{
     }
     .party-date{
          font-size: 32px;
-        color: #000;
+         color: #000;
     }
     .party-time{
      font-size: 32px;
@@ -152,6 +152,7 @@ body{
         margin-bottom: 126px;
        
     }
+   
     .image-round-section{
         margin: 0 2%;
         max-width: 1320px;
@@ -163,10 +164,12 @@ body{
         justify-content: space-evenly;
         gap: 30px;
     }
+   
     .offer-title{
         color: #F00;
         font-family: Inter;
         font-size: 24px;
+        margin-bottom: 20px;
     }
     .offer-time{
         color: #070211;
@@ -176,17 +179,27 @@ body{
     }
     .offer-description{
         font-size: 20px;
+        font-weight: 400;
+        padding-top: 20px;
+         font-family: Inter;
+        line-height: 32px;
+        color: #3b3a3a;
         
     }
     .offer-image img{
         border-radius: 50%;
         border: 15px solid #F00;
         padding: 25px;
+        
     }
     .offer-2024{
+        padding-top: 30px;
         color: #F00;
         font-size: 48px;
         font-weight: 700;
+    }
+    .offer-year-image{
+        margin-top: 32px;
     }
     .holidays{
         margin: 0 2%;
