@@ -213,7 +213,7 @@ body{
         margin-bottom: 60px;
     }
     .holiday-images{
-        max-width: 65%;
+        max-width: 100%;
         display: flex; 
     }
 
@@ -269,9 +269,9 @@ body{
      }
       .gifts-images-row01 img:hover, .gifts-images-row02 img:hover{
         background-color: rgba(53, 53, 35, 0.9);
-       
         cursor: pointer;
       }
+
      .gifts-images-row01 img, .gifts-images-row02 img{
         max-width: 390px;
      }
