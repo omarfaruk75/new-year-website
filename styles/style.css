@@ -268,8 +268,8 @@ body{
         margin-bottom: 18px;
      }
       .gifts-images-row01 img:hover, .gifts-images-row02 img:hover{
-        background-color: rgb(147, 147, 120);
-        background-image: -o-linear-gradient("180deg top to right");
+        background-color: rgba(53, 53, 35, 0.9);
+       
         cursor: pointer;
       }
      .gifts-images-row01 img, .gifts-images-row02 img{
