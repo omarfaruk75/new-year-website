@@ -14,7 +14,7 @@ body{
         font-family: Merriweather;
         color: #fff;
         background: linear-gradient(180deg, #070211 80%, rgba(7, 2, 17, 0.00) 100%);
-        background-image: url('../images/Banner\ Image.png');
+        background-image: url('../images/Banner-Image.png');
         background-repeat: no-repeat;
         background-position: 50% 50%;
         border-radius: 16px;
@@ -368,12 +368,13 @@ body{
         padding-top: 40px;
      }
      .footer hr{
-       background-color: rgba(255, 255, 255, 0.15);
+        background-color: rgba(255, 255, 255, 0.15);
         max-width: 80%;
         align-items: center;
         margin: 0 auto;
         max-width: 80%;
         margin-bottom: 50px;
+        color: blue;
      }
      .copyright{
         display: flex;
