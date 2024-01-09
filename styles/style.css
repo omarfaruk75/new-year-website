@@ -4,6 +4,9 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
+body{
+    margin-top: 15px;
+}
     .container{
         margin: 0 2%;
         max-width: 1320px;
@@ -299,7 +302,7 @@
         margin-right: -10px;
         width: 33%;
         background-color: #fff;
-        height: 65px;
+        height: 62px;
         border-radius: 0 10px 10px 0;
     
      }
@@ -319,11 +322,34 @@
      }
      .social-link{
         font-size: 30px;
-        text-align: center
+        text-align: center;
+        margin-bottom: 50px;
      }
      .address{
         display: flex;
-        justify-content: space-around;
-       
-
+        justify-content: space-between;
+        margin: 0 10%;
+        margin-bottom: 50px;
+     }
+     .footer{
+        /* margin: 0 2%; */
+        max-width: 1320px;
+        margin-top: 120px;
+        background-color: #000000;
+        color: #FFF;
+        padding-top: 40px;
+     }
+     .footer hr{
+       background-color: rgba(255, 255, 255, 0.15);
+        max-width: 80%;
+        align-items: center;
+        margin: 0 auto;
+        max-width: 80%;
+        margin-bottom: 50px;
+     }
+     .copyright{
+        display: flex;
+        justify-content: space-between;
+        margin: 0 10%;
+        padding-bottom: 50px;
      }
