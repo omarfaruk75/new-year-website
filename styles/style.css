@@ -235,6 +235,7 @@ body{
     .holiday-images{
         max-width: 100%;
         display: flex; 
+        align-items: center;
     }
 
     .holiday-images01{
@@ -245,7 +246,7 @@ body{
         margin-left: -170px;
         margin-right: 0;
         z-index: 3;
-        margin-top: 30px;
+        /* margin-top: 30px; */
 }
     
     .holiday-images03{
@@ -253,7 +254,7 @@ body{
         z-index: -1;
     }
     .bg-image{
-        margin-top:-200px;
+        margin-top:-130px;
        
     }
     .bg-image img{
